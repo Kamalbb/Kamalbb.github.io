@@ -1,0 +1,12 @@
+body {
+    background-color: white;
+}
+
+header {
+    color: blue;
+    text-align: center;
+}
+
+.horizontal {
+    display: inline-block;
+}
